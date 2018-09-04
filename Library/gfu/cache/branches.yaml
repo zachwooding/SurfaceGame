@@ -12,14 +12,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-09-04T01:20:53.025-06:00
-  initializedAtString: 2018-09-04T01:15:56.974-06:00
+  lastUpdatedAtString: 2018-09-04T08:12:06.585-06:00
+  initializedAtString: 2018-09-04T08:12:06.571-06:00
   localBranches:
   - name: master
+    tracking: orgin/master
+  remoteBranches:
+  - name: orgin/master
     tracking: '[None]'
-  remoteBranches: []
   remotes:
   - name: origin
+    url: https://github.com/zachwooding/SurfaceGame.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: orgin
     url: https://github.com/zachwooding/SurfaceGame.git
     login: 
     user: 
@@ -32,16 +41,28 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: orgin
+        url: https://github.com/zachwooding/SurfaceGame.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - orgin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: orgin
+          url: https://github.com/zachwooding/SurfaceGame.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
+    - orgin
     values:
     - name: origin
+      url: https://github.com/zachwooding/SurfaceGame.git
+    - name: orgin
       url: https://github.com/zachwooding/SurfaceGame.git

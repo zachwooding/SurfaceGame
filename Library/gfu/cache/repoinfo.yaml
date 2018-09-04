@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-09-04T01:21:28.084-06:00
-  initializedAtString: 2018-09-04T01:15:28.413-06:00
+  lastUpdatedAtString: 2018-09-04T08:12:06.708-06:00
+  initializedAtString: 2018-09-04T08:12:06.708-06:00
   currentGitRemote:
-    name: origin
+    name: orgin
     url: https://github.com/zachwooding/SurfaceGame.git
     login: 
     user: 
@@ -24,14 +24,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: '[None]'
+    tracking: orgin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: orgin
+      url: https://github.com/zachwooding/SurfaceGame.git
+    trackingBranch: master
   currentConfigRemote:
-    name: origin
+    name: orgin
     url: https://github.com/zachwooding/SurfaceGame.git
-  currentHead: 1b595e3
+  currentHead: d9609cf
