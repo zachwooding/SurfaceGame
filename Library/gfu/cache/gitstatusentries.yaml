@@ -12,6 +12,60 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-09-07T20:38:29.771-06:00
-  initializedAtString: 2018-09-07T16:30:42.118-06:00
-  entries: []
+  lastUpdatedAtString: 2018-09-11T14:25:53.698-06:00
+  initializedAtString: 2018-09-11T11:59:54.838-06:00
+  entries:
+  - path: Art\.mayaSwatches\OctopusModel.mb.swatches
+    fullPath: C:\Users\zacharywooding\Documents\GitHub\SurfaceGame\Art\.mayaSwatches\OctopusModel.mb.swatches
+    projectPath: Art\.mayaSwatches\OctopusModel.mb.swatches
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Art\OctopusModel.mb
+    fullPath: C:\Users\zacharywooding\Documents\GitHub\SurfaceGame\Art\OctopusModel.mb
+    projectPath: Art\OctopusModel.mb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\zacharywooding\Documents\GitHub\SurfaceGame\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\zacharywooding\Documents\GitHub\SurfaceGame\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\zacharywooding\Documents\GitHub\SurfaceGame\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\zacharywooding\Documents\GitHub\SurfaceGame\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\zacharywooding\Documents\GitHub\SurfaceGame\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\zacharywooding\Documents\GitHub\SurfaceGame\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\zacharywooding\Documents\GitHub\SurfaceGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
